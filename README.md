@@ -24,4 +24,4 @@ Did you know that mindfulness can actually change the structure of your brain? A
 
 ## ⚡ Quick stats
 
-![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhxuvi&show_icons=true&theme=radical)
