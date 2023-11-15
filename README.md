@@ -1,27 +1,27 @@
-# Hi there 👋
+# Xin chào 👋
 
-I'm Minh, an automation engineer. Welcome to my GitHub profile!
+Tôi là Minh, một kỹ sư tự động hóa. Chào mừng đến với trang GitHub của tôi!
 
-## 🔭 What I'm working on
+## 🔭 Những gì tôi đang làm
 
-Currently, I'm working on XuVi Travel, a organization to host cycling tour around Vietnam. You can check it out [here](https://github.com/xuvitravel).
+Hiện tại, tôi đang làm việc cho XuVi Travel, một câu lạc bộ tổ chức các chuyến đạp xe xuyên Việt Nam. Bạn có thể xem [tại đây](https://github.com/xuvitravel).
 
-## 🌱 What I'm learning
+## 🌱 Những gì tôi đang học
 
-I'm always learning new things! Right now, I'm focused on improving my skills in Cloud, DevOps, and Generative AI.
+Tôi luôn học hỏi những điều mới mẻ! Hiện tại, tôi tập trung vào việc cải thiện kỹ năng của mình trong lĩnh vực Cloud, DevOps và Generative AI.
 
-## 👯 Looking to collaborate
+## 👯 Tìm đối tác hợp tác
 
-I'm always open to collaborating on interesting projects! If you have an idea you'd like to work on together, feel free to reach out.
+Tôi luôn sẵn sàng để hợp tác trong các dự án thú vị! Nếu bạn có ý tưởng bạn muốn làm việc cùng nhau, hãy liên hệ với tôi.
 
-## 📫 Get in touch
+## 📫 Liên hệ
 
-You can reach me at minhxuvi@gmail.com or on [Linkedin](https://linkedin.com/in/minhxuvi).. I'm always happy to chat!
+Bạn có thể liên hệ với tôi qua minhxuvi@gmail.com hoặc trên [Linkedin](https://linkedin.com/in/minhxuvi). Tôi luôn sẵn sàng trò chuyện!
 
-## 😄 Fun fact
+## 😄 Sự thật thú vị
 
-Did you know that mindfulness can actually change the structure of your brain? According to a study published in the journal Psychiatry Research, participants who underwent an 8-week mindfulness-based stress reduction program showed an increase in gray matter density in the hippocampus, an area of the brain associated with learning and memory, and a decrease in gray matter density in the amygdala, an area of the brain associated with anxiety and stress.
+Bạn có biết rằng chánh niệm có thể thay đổi cấu trúc của não của bạn? Theo một nghiên cứu được công bố trên tạp chí Psychiatry Research, những người tham gia chương trình giảm căng thẳng dựa trên chánh niệm trong 8 tuần đã cho thấy mật độ chất xám tăng lên trong vùng hippocampus, một khu vực của não liên quan đến học tập và trí nhớ, và giảm mật độ chất xám trong amygdala, một khu vực của não liên quan đến lo âu và căng thẳng.
 
-## ⚡ Quick stats
+## ⚡ Thống kê nhanh
 
-![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhxuvi&show_icons=true&theme=radical)
+![Thống kê GitHub của Minh](https://github-readme-stats.vercel.app/api?username=minhxuvi&show_icons=true&theme=radical)
