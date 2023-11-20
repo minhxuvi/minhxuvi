@@ -22,6 +22,8 @@ Bạn có thể liên hệ với tôi qua minhxuvi@gmail.com hoặc trên [Linke
 
 Bạn có biết rằng chánh niệm có thể thay đổi cấu trúc của não của bạn? Theo một nghiên cứu được công bố trên tạp chí Psychiatry Research, những người tham gia chương trình giảm căng thẳng dựa trên chánh niệm trong 8 tuần đã cho thấy mật độ chất xám tăng lên trong vùng hippocampus, một khu vực của não liên quan đến học tập và trí nhớ, và giảm mật độ chất xám trong amygdala, một khu vực của não liên quan đến lo âu và căng thẳng.
 
+<!-- 
 ## ⚡ Thống kê nhanh
 
 ![Thống kê GitHub của Minh](https://github-readme-stats.vercel.app/api?username=minhxuvi&show_icons=true&theme=radical)
+ -->
