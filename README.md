@@ -1,29 +1,29 @@
-# Xin chào 👋
+# Hello 👋
 
-Tôi là Minh, một kỹ sư tự động hóa. Chào mừng đến với trang GitHub của tôi!
+I'm Minh, an automation engineer. Welcome to my GitHub page!
 
-## 🔭 Những gì tôi đang làm
+## 🔭 What I'm working on
 
-Hiện tại, tôi đang làm việc cho XuVi Travel, một câu lạc bộ tổ chức các chuyến đạp xe xuyên Việt Nam. Bạn có thể xem [tại đây](https://github.com/xuvitravel).
+Currently, I'm working for XuVi Travel, a club organizing cycling trips across Vietnam. You can check it out [here](https://github.com/xuvitravel).
 
-## 🌱 Những gì tôi đang học
+## 🌱 What I'm learning
 
-Tôi luôn học hỏi những điều mới mẻ! Hiện tại, tôi tập trung vào việc cải thiện kỹ năng của mình trong lĩnh vực Cloud, DevOps và Generative AI.
+I'm always learning new things! Currently, I'm focusing on improving my skills in Cloud, DevOps, and Generative AI.
 
-## 👯 Tìm đối tác hợp tác
+## 👯 Looking for collaboration partners
 
-Tôi luôn sẵn sàng để hợp tác trong các dự án thú vị! Nếu bạn có ý tưởng bạn muốn làm việc cùng nhau, hãy liên hệ với tôi.
+I'm always open to collaborate on interesting projects! If you have an idea you want to work on together, feel free to reach out to me.
 
-## 📫 Liên hệ
+## 📫 Contact
 
-Bạn có thể liên hệ với tôi qua minhxuvi@gmail.com hoặc trên [Linkedin](https://linkedin.com/in/minhxuvi). Tôi luôn sẵn sàng trò chuyện!
+You can contact me via minhxuvi@gmail.com or on [Linkedin](https://linkedin.com/in/minhxuvi). I'm always available for a chat!
 
-## 😄 Sự thật thú vị
+## 😄 Fun fact
 
-Bạn có biết rằng chánh niệm có thể thay đổi cấu trúc của não của bạn? Theo một nghiên cứu được công bố trên tạp chí Psychiatry Research, những người tham gia chương trình giảm căng thẳng dựa trên chánh niệm trong 8 tuần đã cho thấy mật độ chất xám tăng lên trong vùng hippocampus, một khu vực của não liên quan đến học tập và trí nhớ, và giảm mật độ chất xám trong amygdala, một khu vực của não liên quan đến lo âu và căng thẳng.
+Did you know that mindfulness can change the structure of your brain? According to a study published in the Psychiatry Research journal, participants in an 8-week mindfulness-based stress reduction program showed increased gray matter density in the hippocampus, a brain region associated with learning and memory, and decreased gray matter density in the amygdala, a brain region associated with anxiety and stress.
 
 <!-- 
-## ⚡ Thống kê nhanh
+## ⚡ Quick stats
 
-![Thống kê GitHub của Minh](https://github-readme-stats.vercel.app/api?username=minhxuvi&show_icons=true&theme=radical)
+![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhxuvi&show_icons=true&theme=radical)
  -->
